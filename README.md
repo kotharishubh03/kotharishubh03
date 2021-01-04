@@ -1,5 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on a POS for small buisness 
+### 🔭 I’m currently working on a POS for small buisness 
+### 🌱 I’m currently learning HTML,CSS,PHP, and Python languages 
+### ⚡ Fun fact: I know the above languages but still working and learning to improve my codeing skills 
 <!--
 **kotharishubh03/kotharishubh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
